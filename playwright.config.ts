@@ -53,7 +53,7 @@ export default defineConfig({
     //screenshot: 'only-on-failure',  //capture the ss only when failed - done by me
     //video: 'retain-on-failure', //to capture video only when failed - done by me
     /* Base URL to use in actions like `await page.goto('')`. */
-    // baseURL: 'http://localhost:3000',
+    baseURL: 'https://restful-booker.herokuapp.com', //done by me
 
     //viewport: { width: 1280, height: 720 }, //done by me
 
